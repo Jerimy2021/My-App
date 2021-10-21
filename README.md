@@ -21,11 +21,10 @@ Necesitaras las siguiente herramientas para poder ejecutar el proyecto:
 # Ejecutar el proyecto
 Una vez instalado todos los programas necesarios, solo necesiatas clonar nuestro repositorio:
 
-gh repo clone <repo>
+`gh repo clone <repo>`
  
 Despues de ello, entra a nuestro proyecto y ejecútalo:
-
-  npm start
+`npm start`
 
 ## Progreso
   |Cargo|Encargado|
