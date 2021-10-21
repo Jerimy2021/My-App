@@ -28,6 +28,10 @@ Despues de ello, entra a nuestro proyecto y ejecútalo:
   npm start
 
 ## Progreso
-  
+  |Cargo|Encargado|
+  |----|-------|
+  |Fronted|Magnus Carlsen
+  |Backend|MVL|
+  |Database|Andrew Tang|
   
   
