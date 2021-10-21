@@ -20,7 +20,9 @@ Necesitaras las siguiente herramientas para poder ejecutar el proyecto:
 - Ionic 2.x  
 # Ejecutar el proyecto
 Una vez instalado todos los programas necesarios, solo necesiatas clonar nuestro repositorio:
+
 gh repo clone <repo>
+ 
 Despues de ello, entra a nuestro proyecto y ejecútalo:
 
   npm start
