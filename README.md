@@ -6,7 +6,7 @@
  # Contribuir
  
  Si quieres contribuir a nuestro proyecto, tienes que seguir los siguientes pasos
- 1. Ve a nuestro proyecto en Git hub y realiza un simp(bt.azul)fork!
+ 1. Ve a nuestro proyecto en Git hub y realiza un ****fork****!
  2. Realizas las modificaciones que consideras necesarias en tu copia del proyecto.
  3. Envia un PR!
  4. Revisaremos tu PR tan pronto como podamos.Agradecemos mucho tu ayuda
